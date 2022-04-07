@@ -1,0 +1,55 @@
+#header_img{
+    max-height: 200px;
+    max-width: 30%;
+}
+#card_img{
+    max-height: 1600px;
+    max-width: 50%;
+}
+#header_color{
+    background-color: #f2f2f2;
+    color:#37465d;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    padding-top: 150px;
+}
+#header_text:hover{
+    color:#cc7a00;
+}
+
+#main_page_title{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#background_color_green{
+    background-color: #b8e6cf;
+}
+
+#product_imgs{
+    max-width: 800px;
+    max-height: 800px;
+}
+body {
+    overflow-x: hidden !important;
+}
+.container {
+    max-width: 100% !important;
+    overflow-x: hidden !important;
+}
+#about_us_bg_color{
+    background-color: #f7f4d5;
+}
+#chocolate_cake{
+    max-height: 50%;
+}
+#large_font_size{
+    font-size: 150%;
+}
+#contact_us_background_color{
+    background-color: #e2c5ed;
+}
