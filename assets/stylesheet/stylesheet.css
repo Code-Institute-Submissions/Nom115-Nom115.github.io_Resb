@@ -18,11 +18,11 @@ ul{
 body{
     padding-top: 150px;
 }
-#header_text:hover{
+.header_text:hover{
     color:#cc7a00;
 }
 
-#main_page_title{
+.main_page_title{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -47,7 +47,7 @@ body {
 #chocolate_cake{
     max-height: 50%;
 }
-#large_font_size{
+.large_font_size{
     font-size: 150%;
 }
 #contact_us_background_color{
