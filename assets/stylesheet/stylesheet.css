@@ -47,9 +47,23 @@ body {
 #chocolate_cake{
     max-height: 50%;
 }
+@media only screen and (min-width: 1025px){
+    .large_font_size{
+        font-size: 125%;
+    }
+}
+@media only screen and (max-width:426px){
 .large_font_size{
-    font-size: 150%;
+    font-size: 85%;
+}
 }
 #contact_us_background_color{
     background-color: #e2c5ed;
+}
+
+#googlemap{
+    max-width:fit-content;
+}
+.socialbtn{
+    background-color: #54456b;
 }
