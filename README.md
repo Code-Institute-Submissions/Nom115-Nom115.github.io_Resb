@@ -23,3 +23,26 @@ Big Boss Beans is a site that aims to showcase the amazing new cafe in the heart
 - "Contact Us"
     * The "contact us" section, is functional, and allows the user to send messages to the owners that can, with a backend, be used to collect messages and data.
 
+## Features to implement
+- Add a reviews page
+
+## Testing
+
+- After rigorous testing, and testing links, and responsiveness. The website works quite well. Especially on Large Mobile Screen and Laptop size.
+
+## Validator Testing
+- HTML
+    - My HTML was validated using the W3 Validator
+-CSS
+    - My CSS was validated using the Jigsaw Validator
+
+## Unfixed bugs
+- Footer buttons for socials sometimes not displaying correctly.
+
+## Deployment
+-The site was deployed to GitHub.io, this was done by renaming the repository, and then the site can be found on Nom115.github.io.
+
+## Content
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
+## Media
