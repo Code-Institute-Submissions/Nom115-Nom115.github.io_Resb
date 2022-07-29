@@ -46,3 +46,14 @@ Big Boss Beans is a site that aims to showcase the amazing new cafe in the heart
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
+- Photos found on
+    - https://www.outside.co.uk/our-cafe/
+    - https://cafeitaliabolton.co.uk/
+    - https://www.cookingclassy.com/chocolate-cake-chocolate-buttercream-frosting/
+    - https://bakingwithgranny.co.uk/recipe/easy-cinnamon-swirls/
+    - https://unsplash.com/s/photos/coffee-bean
+    - https://www.etsy.com/uk/market/cappuccino_cup_set
+    - https://baristaandco.com/
+    - https://insanelygoodrecipes.com/french-desserts/
+    - https://www.foodiewithfamily.com/plie-au-chocolat-french-chocolate-and-custard-pastries/
+    - https://www.techradar.com/uk/news/best-cameraphone
